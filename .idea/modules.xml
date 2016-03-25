@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/piano_25_3_59-b551794ed3de5000097d8e532ab81f848efdf6ff.iml" filepath="$PROJECT_DIR$/piano_25_3_59-b551794ed3de5000097d8e532ab81f848efdf6ff.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pianoKey.iml" filepath="$PROJECT_DIR$/pianoKey.iml" />
     </modules>
   </component>
 </project>
