@@ -21,7 +21,9 @@
             android:id="@+id/editText"
             android:textSize="55dp"
             android:text="@string/app_name"
-            android:gravity="center" />
+            android:gravity="center"
+            android:textIsSelectable="false"
+            android:textColor="#ebe3e3" />
 
         <LinearLayout
             android:orientation="horizontal"
