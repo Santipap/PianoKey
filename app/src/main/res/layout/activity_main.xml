@@ -83,13 +83,6 @@
                 android:text="B"
                 android:textSize="25dp" />
 
-            <Button
-                android:layout_width="65dp"
-                android:layout_height="match_parent"
-                android:id="@+id/c8"
-                android:text="C^"
-                android:textSize="25dp" />
-
         </LinearLayout>
 
     </LinearLayout>

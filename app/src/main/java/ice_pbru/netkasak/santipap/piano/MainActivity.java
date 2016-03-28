@@ -121,19 +121,7 @@ public class MainActivity extends AppCompatActivity {
         });
 
 
-        btnOK = (Button) findViewById(R.id.c8);
-        btnOK.setOnClickListener(new View.OnClickListener() {
-            public void onClick(View v) {
-                MediaPlayer mpEffect
-                        = MediaPlayer.create(MainActivity.this, R.raw.song8);
-                mpEffect.start();
-                mpEffect.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
-                    public void onCompletion(MediaPlayer mp) {
-                        mp.release();
-                    }
-                });
-            }
-        });
+
 
 
 
